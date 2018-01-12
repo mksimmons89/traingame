@@ -1,0 +1,37 @@
+body{
+  background-image: url("images/wood.jpg");
+  color: orange;
+}
+
+
+.text-center{
+  background-color: darkblue;
+  font-family: 'Titillium Web', sans-serif;
+  color: orange;
+}
+
+.panel{
+  border-style: solid;
+  border-color: darkgrey;
+
+}
+
+.panel-body, .table, .panel-heading, .panel-default{
+  background-color: darkgrey;
+  color: darkblue;
+  font-family: 'Titillium Web', sans-serif;
+}
+
+.jumbotron{
+  background-color: silver;
+  border-style: solid;
+  border-color: darkgrey;
+  border: 2px;
+}
+
+h3, .panel-body, .panel-title{
+  background-color: orange;
+  color: darkblue;
+  font-weight: bold;
+  font-size: 20px;
+}
